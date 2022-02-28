@@ -1,2 +1,7 @@
 # approximatePI
-Generate up to 100 million random points on a square and count the percentage that land in the circle and multiply by 4 to approximate π
+
+Visualising a way to approximate π using up to 100 million random points on a square and some math to approximate π
+
+View the deployed project at: https://approximatepi.netlify.app/
+
+
